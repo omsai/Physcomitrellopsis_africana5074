@@ -1,0 +1,6 @@
+[submodule "transcriptome"]
+	path = transcriptome
+	url = https://github.com/RahmatpourNasim/Physcomitrellopsis_africana5074_transcriptome.git
+[submodule "genome"]
+	path = genome
+	url = https://github.com/RahmatpourNasim/Physcomitrellopsis_africana5074_BGISEQ-500.git
